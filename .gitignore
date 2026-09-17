@@ -1,0 +1,16 @@
+data/
+EO_Analytics_Master_Plan_v2.1.pdf
+*.tif
+*.tiff
+*.pmtiles
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
