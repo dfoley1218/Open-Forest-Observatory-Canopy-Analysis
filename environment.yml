@@ -1,0 +1,15 @@
+name: canopy-census
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.11
+  - geopandas
+  - rasterio
+  - gdal
+  - shapely
+  - pystac-client
+  - rasterstats
+  - scipy
+  - matplotlib
+  - jupyterlab
