@@ -11,6 +11,12 @@ __pycache__/
 .venv/
 env/
 
+# Editor (interpreter path is machine-specific)
+.vscode/
+
 # OS
 .DS_Store
 Thumbs.db
+
+# Planning docs (local reference, never committed)
+plan/
